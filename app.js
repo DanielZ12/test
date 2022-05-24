@@ -3,3 +3,5 @@ const {argv} = require("process")
 
 const operacion = argv[2]
 console.log(operacion);
+
+console.log("Hola mundo");
